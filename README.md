@@ -1,6 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Next.js 14 Invoice Application
+Technologies: Next.js 14, React.js, JavaScript, TypeScript, Prisma, Postgresql, TailwindCSS
+
+### DEMO: https://invoice-app-blue.vercel.app
+
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
