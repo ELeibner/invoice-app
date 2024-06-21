@@ -1,7 +1,7 @@
 ## Next.js 14 Invoice Application
 Technologies: Next.js 14, React.js, JavaScript, TypeScript, Prisma, Postgresql, TailwindCSS
 
-### DEMO: https://invoice-app-blue.vercel.app
+### DEMO: https://invoice-dashboard-app.vercel.app
 
 
 ## Getting Started
